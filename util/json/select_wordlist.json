@@ -1,0 +1,48 @@
+{
+
+
+
+"colors":
+[
+  "red",
+  "green",
+  "yellow",
+  "orange",
+  "blue",
+  "black",
+  "white",
+  "brown",
+  "pink",
+  "purple"
+]
+,
+"locations":
+[
+  "Seoul",
+  "Tokyo",
+  "Beijing",
+  "New York",
+  "Washington"
+]
+,
+"shapes":
+[
+  "square",
+  "semicircle",
+  "circle",
+  "triangle",
+  "rectangle",
+  "pentagon",
+  "hexagon",
+  "heptagon",
+  "octagon",
+  "diamond",
+  "trapezoid",
+  "parallelogram",
+  "star",
+  "heart",
+  "cross",
+  "ring",
+  "arrow"
+]
+}
